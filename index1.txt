@@ -1,0 +1,7 @@
+<html>
+    <head></head>
+    <body>
+        click<a href="index.html">here</a>
+    <img src="syallbus.pdf">
+</body>
+</html>
