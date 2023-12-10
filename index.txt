@@ -30,11 +30,18 @@ borader-radius: 5px;
 
 <img width=950 height=450 src="gvp2.jpg">
 <h1><b>GVPCE(A)-LSM<b></h1>
+
 <h2><br><i>course structure and syllabus 2023-2024(R-23 Regulations)<i><img src="new.gif"><h2>
 
-<h3 class="mainheading">CSE(computer science engineering <button>click</button>click<a href="index1.html">here</a> <br>
-CSM(computer science and engineering(aritifcial intelligence and machine learning)<button>click</button><br>
-CSD(computer science and datascience<button>click</button><h3>
+
+
+<h3 class="mainheading">CSE(computer science engineering click<a href="index1.html">here</a> <br>
+CSM(computer science and engineering(aritifcial intelligence and machine learning)<br>
+
+
+
+CSD(computer science and datascience<h3>
+
 
 
 </body>
