@@ -35,18 +35,19 @@ borader-radius: 5px;
 
 
 
-<h3 class="mainheading">CSE(computer science engineering)<button>click</button><a href="https://www.gvpce.ac.in/csebtechcoustu22-23.html">here</a> <br>
+<h3 class="mainheading">CSE(computer science engineering)<iframe>="https://www.gvpce.ac.in/csebtechcoustu22-23.html"</iframe> <br>
 
 
-CSM(computer science and engineering(aritifcial intelligence and machine learning)<button>click</button><a href="https://www.gvpce.ac.in/aimlcsebtechcoustu22-23.html">here</a><br>
-
-
-
-CSD(computer science and datascience) <button>click</button><a htref+"https://www.gvpce.ac.in/dscsebtechcoustu22-23.html">here</a><br>  </h3> 
+CSM(computer science and engineering(aritifcial intelligence and machine learning)click<a href="https://www.gvpce.ac.in/aimlcsebtechcoustu22-23.html">here</a><br>
 
 
 
-</body>
+CSD(computer science and datascience) click<a htref+"https://www.gvpce.ac.in/dscsebtechcoustu22-23.html">here</a><br>  </h3> 
+
+
+
+<a href="https://www.example.com" target="_blank">Visit Example.com</a>
+
 
 
 
